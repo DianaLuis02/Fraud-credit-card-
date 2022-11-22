@@ -1,5 +1,5 @@
 ## Descripción
-predicción de transacciones fraudulentas con algoritmos de knn y arboles decisión. 
+Predicción de transacciones fraudulentas con algoritmos de knn y arboles decisión. 
 
 ## Autor 
 
